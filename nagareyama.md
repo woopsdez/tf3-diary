@@ -2,7 +2,10 @@
 layout: page
 title: 08 ナガレヤマ — 熱帯の多島海でタイクーンまで
 permalink: /nagareyama.html
+lang: ja
 ---
+
+**日本語** · [English](en/nagareyama.html) · [Deutsch](de/nagareyama.html) · [中文](zh/nagareyama.html) · [한국어](ko/nagareyama.html)
 
 熱帯の多島海で、5 つの島の町を 1 本の幹線でつないでいった記録です。
 1930 年に始めて、1955 年でカレンダーを止め、会社の最高位「タイクーン」まで遊びました。

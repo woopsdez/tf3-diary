@@ -1,7 +1,10 @@
 ---
 layout: home
 title: Transport Fever 3 攻略日記
+lang: ja
 ---
+
+**日本語** · [English](en/) · [Deutsch](de/) · [中文](zh/) · [한국어](ko/)
 
 Transport Fever 3 をバニラ（MOD は表示と書き出しだけ）・フリープレイで遊んだ日記です。
 その日にやったことと、やってみて分かったことを書いています。

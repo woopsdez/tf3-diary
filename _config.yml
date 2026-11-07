@@ -1,5 +1,9 @@
-title: Transport Fever 3 攻略日記
-description: バニラ・フリープレイで遊んだ記録と、そこで分かったこと
+title: Transport Fever 3 Diary
+description: A vanilla free-play diary of Transport Fever 3, and what I learned along the way
 lang: ja
 theme: minima
 markdown: kramdown
+# 言語ごとのページが上の帯に全部並ばないように、どれにも当たらない名前だけを置く
+header_pages:
+  - none
+baseurl: /tf3-diary
