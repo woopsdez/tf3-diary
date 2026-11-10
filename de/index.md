@@ -15,3 +15,4 @@ Ich schreibe auf, was ich pro Tag gemacht und dabei gelernt habe.
 | # | Welt | Klima | Zeitraum | Ergebnis |
 |---|---|---|---|---|
 | 08 | [Nagareyama (Archipel)](nagareyama.html) | Tropisch | 1930–1955 (5 Tage Echtzeit) | Tycoon, 4 Erfolge |
+| 09 | [Yachiyo (Plateau und Tiefland)](yachiyo.html) | Trocken | 1950–1985 (4 Tage Echtzeit) | Tycoon (2. Klima) |
