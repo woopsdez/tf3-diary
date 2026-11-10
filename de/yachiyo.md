@@ -187,10 +187,11 @@ Zwischen 1967 und 1985 sind 29 Industrien verschwunden und 27 neu entstanden.
 - Güterstrecken mit billigen Gleisen bauen. Geld für Tempo nur bei Passagieren ausgeben
 - Subventionen erst annehmen, wenn eine Linie läuft, die die Bedingungen erfüllt
 - Stehen Stammstrecke und Sammellager, zuerst die Verteilung in der Stadt aufbauen
-- Für jede Linie zuerst den längsten Zug festlegen: Bahnsteige 240 m, Signalabstand und Warteplatz vor dem Bahnhof mindestens 300 m
+- Für jede Linie zuerst den längsten Zug festlegen. Bahnsteige länger als dieser Zug, und auch das Stück vom Ende einer Weiche bis zum nächsten Signal länger als dieser Zug (damit das Ende eines haltenden Zuges nie die Weiche blockiert)
 - Schon früh Arbeiter per Zug pendeln lassen und sie mit Umsteigen bis zu den Industrien bringen
 
 Als Nächstes: das subarktische Klima, mit ausgeschalteter Empfindlichkeit der Stadtbewertungen, einer Einstellung, bei der die Bevölkerung sehr stark wächst.
 Bisher war 160 m meine Standardlänge für Bahnsteige, aber der Shinkansen Baureihe 0 ist mit 8 Wagen über 200 m lang.
-Deshalb gehe ich nächstes Mal von Anfang an von Zügen um 200 m aus und will lernen, 240-m-Bahnsteige sowie lange Züge und Trams ohne Stau zu betreiben.
+Deshalb baue ich die Gleise nächstes Mal von Anfang an für lange Züge und will lernen, lange Züge und Trams ohne Stau zu betreiben.
+(Übrigens: Die Baureihe 0 ist mit 6 Wagen etwa 154 m lang und passt an einen 160-m-Bahnsteig. 8 Wagen braucht man nur bei sehr vielen Fahrgästen.)
 Außerdem ziele ich auf Centralized (alle 10 Wahrzeichen) und Summit Stopover (ein Bahnhof über 500 m Höhe).

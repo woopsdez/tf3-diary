@@ -187,10 +187,11 @@ Between 1967 and 1985, 29 industries disappeared and 27 new ones appeared.
 - Use cheap track for freight lines. Spend money on speed only for passengers
 - Accept subsidies only once a line that meets the conditions is running
 - Once the trunk line and collection warehouses are in place, sort out in-town delivery first
-- Decide the longest train for each line up front: 240 m platforms, and at least 300 m for signal spacing and the waiting space before stations
+- Decide the longest train for each line up front. Make platforms longer than that train, and make the stretch from the end of a junction to the next signal longer than it too (so a stopped train's tail never blocks the junction)
 - From the early game, get workers commuting by train and transferring to reach the industries
 
 Next up: the subarctic climate, with town rating sensitivity turned off, a setting where population grows very fast.
 Until now I've made 160 m my standard platform length, but an 8-car Shinkansen 0 Series is over 200 m long.
-So next time I'll assume trains of around 200 m from the start, and learn to run 240 m platforms and long trains and trams without jams.
+So next time I'll build the track for long trains from the start, and learn to run long trains and trams without jams.
+(By the way, a 6-car 0 Series is about 154 m and fits a 160 m platform. You only need 8 cars when there are a lot of passengers.)
 I'll also go for Centralized (all 10 Landmarks) and Summit Stopover (a station more than 500 m high).
