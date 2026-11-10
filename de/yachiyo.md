@@ -64,9 +64,10 @@ An diesem Punkt habe ich beschlossen, mit demselben Seed ab 1950 neu anzufangen.
 <a id="day2"></a>
 ## Tag 2 – Die Holz-Stammstrecke und Sammellager (1950–1955)
 
-Beim Neustart habe ich mit viel Mühe eine Holzstrecke vom Holzfällerlager im Norden bis zum Sägewerk im Südosten gebaut.
+Beim Neustart habe ich eine Holzstrecke vom Holzfällerlager im Norden bis zum Sägewerk im Südosten gebaut.
+Diesmal nicht gerade und auf gleicher Höhe, sondern über das Gelände, wo der Bau am billigsten war: eine kurvige Stammstrecke.
 Sie wurde zur **Stammstrecke**: Die Industrien jeder Gegend sammle ich zuerst in **Sammellagern** und lade die Fracht dann auf die Stammstrecke.
-Gebaut habe ich so billig wie möglich: Einfache Gleise, ohne Elektrifizierung.
+Auch bei den Gleisen habe ich billige Typen gewählt.
 
 Der Höhenunterschied zwischen Plateau und Tiefland ist groß, und die Brücke über das Tal zwischen Yachiyo und Gifu war sehr teuer.
 Trotzdem war es Einfach, deshalb hat es dem Spiel kaum geschadet, wenn ich Anlagen etwas nachlässig gebaut habe.
@@ -97,10 +98,21 @@ Also habe ich klare Regeln für den Gleisbau festgelegt.
 - Die Linien in der Stadt nicht zu stark nach Fracht aufteilen. Lade- und Lieferorte so planen, dass dieselbe Linie mit denselben Fahrzeugen jede ankommende Fracht transportieren kann
 - Privatautos stören, also nicht an die Hauptstraßen der Stadt anschließen, auf denen der normale Verkehr fährt
 
+### Arbeiter im Güterzug mitnehmen
+
+Bei den ersten Primärindustrien (Holzfällerlager, Farmen usw.) will ich die Produktion steigern, deshalb plane ich auch gleich, wie Arbeiter dorthin kommen.
+Eine Busverbindung zur nahen Stadt funktioniert gut, aber diesmal habe ich von Anfang an etwas anderes versucht: Personenwagen vorne an den Güterzug hängen und die Arbeiter mitnehmen.
+
+Dazu lässt man an einem Bahnsteig Passagiere und Fracht zu und setzt die Bahnsteige der Reihe nach als Halte der Linie.
+Aber die Linien werden kompliziert.
+Und auf der Stammstrecke klappte es nicht gut: Die Leute fuhren über ihr Ziel hinaus, um an der Endstation zu wenden.
+Am Ende kam ich zum Tycoon, ohne den Pendelverkehr der Arbeiter gut hinzubekommen.
+
 > **Erkenntnisse**
 > - Baut man zuerst eine lange Stammstrecke, wächst das Netz allein dadurch, dass man Sammellager daran anhängt
 > - Gemüse, Bretter, Treibstoff, Fleisch und Ziegel ließen sich damit gut herstellen und liefern
 > - Güterstrecken mit billigen Gleisen bauen. Geld für Tempo nur bei Passagieren ausgeben
+> - Arbeiter in Personenwagen am Güterzug zu befördern macht die Linien kompliziert, und auf der Stammstrecke fahren die Leute über ihr Ziel hinaus. Für den Pendelverkehr will ich eine andere Form versuchen
 
 <a id="day3"></a>
 ## Tag 3 – In jeder Stadt lösen, was das Wachstum bremst (1966–1967)
@@ -115,13 +127,13 @@ Eine Stadt hört bei ihrer niedrigsten Bewertung auf zu wachsen. Stadt für Stad
 | Gifu | Verkehr (Privatautos verstopfen die Hauptstraße im Zentrum) | Die Tram auf zwei Linien aufgeteilt und auch durch die Westhälfte geführt |
 | Gifu, Yachiyo | Stadtpflege (urban care) | Die unterbrochene Hauptverbindung zwischen Gifu und Yachiyo wiederhergestellt |
 | Yachiyo | Verkehr | Eine Personen-Tram in der Südhälfte |
-| Asaka | Verschmutzung | Beschlossen, alle Wahrzeichen hier zu bauen (aber es gab keinen Stein) |
+| Asaka | Verschmutzung | Beschlossen, alle Wahrzeichen hier zu bauen |
 
 Die Verkehrsbewertung in Gifu stieg von 0.42 auf 0.74, die Nutzung des öffentlichen Verkehrs von 0.09 auf 0.26.
 Das Wachstum erreichte rund 635 Einwohner pro Stunde, das schnellste in dieser Welt.
 
 Alle Wahrzeichen außer dem Schifffahrtsmuseum brauchen „Stein“.
-Auf dieser Karte gab es keinen einzigen Steinbruch, also konnte ich sie nicht bauen.
+Auch wenn es auf der Karte keinen Erzeuger für das Material gibt, ist das kein Problem. Baut man ein Wahrzeichen, entsteht nach einer Weile eine neue Industrie, die das nötige Material herstellt.
 
 ### Was tun gegen Stau
 
@@ -156,7 +168,6 @@ Nach den Tropen in 08 war das der Tycoon im zweiten Klima.
 Während das Spiel lief, hatten sich aber auch Probleme angebahnt.
 Lange Züge stauten sich vor den Bahnhöfen, die wichtigsten Produktionsbetriebe standen still, und viele haben geschlossen.
 Zwischen 1967 und 1985 sind 29 Industrien verschwunden und 27 neu entstanden.
-Meine Standardlänge für Bahnsteige war 160 m, aber der Shinkansen Baureihe 0 war mit 8 Wagen über 200 m lang.
 
 > **Erkenntnisse**
 > - Ist ein Zug länger als der Bahnsteig, steht sein Ende auf der Weiche und hält die Züge dahinter auf. Die Industrien dahinter schließen dann
@@ -177,6 +188,9 @@ Meine Standardlänge für Bahnsteige war 160 m, aber der Shinkansen Baureihe 0 w
 - Subventionen erst annehmen, wenn eine Linie läuft, die die Bedingungen erfüllt
 - Stehen Stammstrecke und Sammellager, zuerst die Verteilung in der Stadt aufbauen
 - Für jede Linie zuerst den längsten Zug festlegen: Bahnsteige 240 m, Signalabstand und Warteplatz vor dem Bahnhof mindestens 300 m
+- Schon früh Arbeiter per Zug pendeln lassen und sie mit Umsteigen bis zu den Industrien bringen
 
-Als Nächstes: das subarktische Klima. Mit ausgeschalteter Empfindlichkeit der Stadtbewertungen, einer Einstellung, bei der die Bevölkerung sehr stark wächst, will ich lernen, Züge von rund 200 m zu betreiben.
+Als Nächstes: das subarktische Klima, mit ausgeschalteter Empfindlichkeit der Stadtbewertungen, einer Einstellung, bei der die Bevölkerung sehr stark wächst.
+Bisher war 160 m meine Standardlänge für Bahnsteige, aber der Shinkansen Baureihe 0 ist mit 8 Wagen über 200 m lang.
+Deshalb gehe ich nächstes Mal von Anfang an von Zügen um 200 m aus und will lernen, 240-m-Bahnsteige sowie lange Züge und Trams ohne Stau zu betreiben.
 Außerdem ziele ich auf Centralized (alle 10 Wahrzeichen) und Summit Stopover (ein Bahnhof über 500 m Höhe).

@@ -64,9 +64,10 @@ At this point I decided to start over from 1950 with the same seed.
 <a id="day2"></a>
 ## Day 2 — The logs trunk line and collection warehouses (1950–1955)
 
-On the restart, I worked hard to push a logs line from the Logging Camp in the north to the Saw Mill in the southeast.
+On the restart, I ran a logs line from the Logging Camp in the north to the Saw Mill in the southeast.
+This time, instead of linking them in a straight line at an even height, I picked the ground where construction was cheapest, making a winding trunk line.
 I made this the **trunk line**, and gathered each area's industries at **collection warehouses** before loading their cargo onto the trunk line.
-I built it as cheaply as I could: Simple Tracks, no electrification.
+I also chose cheap track standards.
 
 The height difference between the plateau and the lowlands is large, and bridging the valley between Yachiyo and Gifu was very expensive.
 Still, this was Easy, so placing things a little sloppily hardly hurt my progress.
@@ -97,10 +98,21 @@ So I set clear rules for how to lay track.
 - Don't split in-town lines too much by cargo. Plan the loading points and destinations so the same line and the same vehicles can carry whatever cargo arrives
 - Private cars get in the way, so don't connect to the town's main roads used by ordinary traffic
 
+### Carrying Workers on freight trains
+
+For the first primary industries I connect (Logging Camps, farms and so on), I want production to grow, so I also plan how to send Workers there.
+Linking them to a nearby town by bus works well, but this time I tried something new from the start: coupling passenger cars to the front of a freight train to carry workers along with the cargo.
+
+The method is to let both passengers and freight use one platform, and set each platform in turn as the line's stops.
+But it makes lines complicated.
+On top of that, doing this on the trunk line didn't work well, with people riding past their stop to turn around at the terminus.
+In the end, I reached Tycoon without ever getting worker commuting to work properly.
+
 > **What I learned**
 > - Build one long trunk line first, and the network grows just by hanging collection warehouses off it
 > - This was enough to produce and deliver Vegetables, Planks, Fuel, Meat and Bricks
 > - Use cheap track for freight lines. Spend money on speed only for passengers
+> - Carrying workers in passenger cars coupled to freight trains makes lines complicated, and on the trunk line people ride past their stop. I want to try another approach for commuting
 
 <a id="day3"></a>
 ## Day 3 — Removing what holds each town back (1966–1967)
@@ -115,13 +127,13 @@ A town stops growing at its lowest rating. Going town by town, each one was held
 | Gifu | Traffic (private cars flooding the main street in the town center) | Split the tram into two lines and ran one through the western half too |
 | Gifu, Yachiyo | Urban care | Restored the broken Main Connection between Gifu and Yachiyo |
 | Yachiyo | Traffic | A passenger tram in the southern half |
-| Asaka | Pollution | Decided to put every Landmark here (but there was no Stone) |
+| Asaka | Pollution | Decided to put every Landmark here |
 
 Gifu's traffic rating went from 0.42 to 0.74, and public transport usage from 0.09 to 0.26.
 Growth reached about 635 people per hour, the fastest in this world.
 
 Every Landmark except the Ship Museum needs Stone.
-This map had not a single Quarry, so I couldn't build them.
+It's fine even if the map has nowhere that produces the material. Build a Landmark, and after a while a new industry producing the material it needs appears.
 
 ### What to do about traffic
 
@@ -156,7 +168,6 @@ After the tropics in 08, this was my Tycoon in a second climate.
 But while I left it running, trouble had been building.
 Long trains were jamming just before stations, the main producing industries stopped, and many of them closed.
 Between 1967 and 1985, 29 industries disappeared and 27 new ones appeared.
-I had made 160 m my standard platform length, but an 8-car Shinkansen 0 Series was over 200 m long.
 
 > **What I learned**
 > - Run a train longer than the platform and its tail sits on the switch, stopping the trains behind it. The industries at the far end then close
@@ -177,6 +188,9 @@ I had made 160 m my standard platform length, but an 8-car Shinkansen 0 Series w
 - Accept subsidies only once a line that meets the conditions is running
 - Once the trunk line and collection warehouses are in place, sort out in-town delivery first
 - Decide the longest train for each line up front: 240 m platforms, and at least 300 m for signal spacing and the waiting space before stations
+- From the early game, get workers commuting by train and transferring to reach the industries
 
-Next up: the subarctic climate. With town rating sensitivity turned off, a setting where population grows very fast, I'll learn to run trains of around 200 m.
+Next up: the subarctic climate, with town rating sensitivity turned off, a setting where population grows very fast.
+Until now I've made 160 m my standard platform length, but an 8-car Shinkansen 0 Series is over 200 m long.
+So next time I'll assume trains of around 200 m from the start, and learn to run 240 m platforms and long trains and trams without jams.
 I'll also go for Centralized (all 10 Landmarks) and Summit Stopover (a station more than 500 m high).
