@@ -39,24 +39,27 @@ Yonago und Yachiyo liegen auf dem Plateau, die anderen drei Städte im Tiefland.
 <a id="day1"></a>
 ## Tag 1 – Das Konto im Minus, also neu anfangen (1950–1951)
 
-Mit dem Startkapital habe ich einen Güterzug für Lehm → Ziegel und einen Personenzug zwischen Asaka und Yonago eingesetzt.
-Die Personenstrecke habe ich auch elektrifiziert.
+Ich spiele meistens nach demselben Muster.
+1. Am Anfang eine Strecke bauen, die gut Geld bringt: „Holz → Sägewerk“ oder „Rohöl → Treibstoff“
+2. Sie sorgfältig als Stammstrecke ausbauen und bis etwa zum Tycoon weiter nutzen
 
-Nach zwei Jahren stand das Konto bei −$2.1M.
-Ich hatte alle vier Darlehen aufgenommen, und die Rückzahlung betrug rund $0.78M pro Monat (rund $9.4M pro Jahr).
-Ein Zug brachte $2.4–3.6M pro Jahr, das reichte bei Weitem nicht.
+So wollte ich es auch diesmal machen und das Holzfällerlager am Nordrand mit dem Sägewerk im Süden verbinden.
+Aber selbst mit dem ganzen Geld aus den Darlehen reichte es nicht, und das Kapital war aufgebraucht.
+Wegen des Höhenunterschieds zwischen Plateau und Tiefland wurde es viel teurer als gedacht.
 
-Ich habe es auch mit Subventionen versucht.
-Durch die Vorauszahlung schien das Konto wieder bei +$15M zu sein,
-aber ich hatte sie angenommen, ohne eine Linie für die Arbeiter zu haben, also sind beide gescheitert.
-Durch die Strafen fiel das Konto auf −$19.8M.
+Als ich die Gleise mit dem Bulldozer abgerissen habe, kam nur ein Teil des Geldes zurück.
+Mein Geld war auf fast die Hälfte geschrumpft.
+
+Notgedrungen habe ich das nahe Lehm → Ziegel verbunden und die Ziegel in eine Stadt geliefert.
+Aber ohne genug Startkapital für den Ausbau konnte ich viel zu wenig tun.
+Auch eine Subvention für den Transport von Arbeitern habe ich ohne passende Linie angenommen. Sie ist gescheitert, und durch die Strafe fiel das Konto auf −$19.8M.
 
 An diesem Punkt habe ich beschlossen, mit demselben Seed ab 1950 neu anzufangen.
 
 > **Erkenntnisse**
-> - Zuerst die Darlehensrückzahlung mit dem Verdienst eines Zuges vergleichen. Personenverkehr und Elektrifizierung erst, wenn Geld hereinkommt
+> - Gleise über Höhenunterschiede sind viel teurer als gedacht. Bei einer langen Stammstrecke vor dem Bau die Kosten abschätzen
+> - Reißt man Gleise ab, bekommt man nur etwa die Hälfte der Baukosten zurück
 > - Die Vorauszahlung einer Subvention ist kein Verdienst. Erst annehmen, wenn eine Linie läuft, die die Bedingungen erfüllt
-> - Darlehen einzeln aufnehmen, zuerst „Mittel“ mit der leichten Monatsrate
 
 <a id="day2"></a>
 ## Tag 2 – Die Holz-Stammstrecke und Sammellager (1950–1955)
@@ -68,14 +71,36 @@ Gebaut habe ich so billig wie möglich: Einfache Gleise, ohne Elektrifizierung.
 Der Höhenunterschied zwischen Plateau und Tiefland ist groß, und die Brücke über das Tal zwischen Yachiyo und Gifu war sehr teuer.
 Trotzdem war es Einfach, deshalb hat es dem Spiel kaum geschadet, wenn ich Anlagen etwas nachlässig gebaut habe.
 
+Da die Welt 1950 beginnt, ging es diesmal nicht mit Pferdefuhrwerken los.
+Von Anfang an gab es Lkw und elektrifizierte Gleise. Die Loks mit viel Kapazität und Tempo waren eine große Hilfe.
+
 1955 hatte ich $262M auf dem Konto, kein Darlehen mehr und 27 Linien.
 Die besten Verdiener waren der Zug für Holz + Gemüse (+$9.0M pro Jahr) und die Personenlinie „Asa-Yone-Linie“ (Asaka – Yonago, +$6.2M pro Jahr).
 
 ![1955. Eine West- und eine Oststammstrecke verbinden die 5 Städte im Ring](../images/09/map-1955.png){: width="420"}
 
+### Meine Regeln beim Gleisbau
+
+Vorletzte Welt konnte ich meine Linien in der Inflationszeit nicht in die Gewinnzone bringen, das Geld ging langsam aus, und ich habe aufgegeben.
+Der Grund waren die Baukosten. Weil etwas Geld da war, hatte ich großzügig Hochgeschwindigkeitsgleise, Standardgleise und Lager gebaut.
+Deshalb war ich letztes Mal und diesmal vorsichtig.
+
+Bei Fracht hängt der Preis nicht von der Liefergeschwindigkeit ab.
+Tempo wie 160 km/h muss man nur bei Passagieren halten.
+Also habe ich klare Regeln für den Gleisbau festgelegt.
+
+- Nicht alles mit Standardgleisen bauen
+- Weizen, Lehm, Sand, Eisenerz, Kohle und Ähnliches braucht man in großen Mengen, also auch auf kurzen Wegen (wenn möglich) per Zug
+- Bevor ich ein Lager hinzufüge, überlegen, ob schnell kreisende Liefer-Lkw verhindern können, dass sich zu viel Fracht staut
+- Vor dem Bahnhof eine Lkw-Station o. Ä. bauen und keine Straßen anlegen
+- Sammellager bauen und dort viele Züge und Lkw ein- und ausfahren lassen
+- Die Linien in der Stadt nicht zu stark nach Fracht aufteilen. Lade- und Lieferorte so planen, dass dieselbe Linie mit denselben Fahrzeugen jede ankommende Fracht transportieren kann
+- Privatautos stören, also nicht an die Hauptstraßen der Stadt anschließen, auf denen der normale Verkehr fährt
+
 > **Erkenntnisse**
 > - Baut man zuerst eine lange Stammstrecke, wächst das Netz allein dadurch, dass man Sammellager daran anhängt
 > - Gemüse, Bretter, Treibstoff, Fleisch und Ziegel ließen sich damit gut herstellen und liefern
+> - Güterstrecken mit billigen Gleisen bauen. Geld für Tempo nur bei Passagieren ausgeben
 
 <a id="day3"></a>
 ## Tag 3 – In jeder Stadt lösen, was das Wachstum bremst (1966–1967)
@@ -97,6 +122,20 @@ Das Wachstum erreichte rund 635 Einwohner pro Stunde, das schnellste in dieser W
 
 Alle Wahrzeichen außer dem Schifffahrtsmuseum brauchen „Stein“.
 Auf dieser Karte gab es keinen einzigen Steinbruch, also konnte ich sie nicht bauen.
+
+### Was tun gegen Stau
+
+Das ist mein aktueller Stand.
+
+1. **Als grobe Lösung die Verbindung zwischen den Städten kappen**. Das Wachstum stoppt, aber die Strafe ist nicht so schwer. Man kann wohl erst das Netz ordnen, den Stau auflösen und dann wieder verbinden
+2. **Zweispurige Straßen zu Busspuren machen**. Normale Autos können sie nicht benutzen, und Gebäude sind nicht betroffen. Gut, wenn steckengebliebene Lkw und Trams erst einmal weiterfahren sollen
+3. Die eigentliche Lösung ist wohl nur ein guter öffentlicher Verkehr. Wie das gut gelingt, weiß ich aber noch nicht genau
+
+Über Verschmutzung und Lärm beschweren sich die Städte kaum, solange man fleißig liefert und genug Waren bringt.
+Darüber nachdenken muss man wohl erst, wenn sich die Lieferung nicht weiter verbessern lässt.
+Trotzdem lohnt es sich wohl, Folgendes von Anfang an zu beachten.
+- Bahnhöfe nicht in Wohngebiete setzen
+- Straßen zwischen den Städten, Hauptstraßen der Stadt und Baublöcke wenigstens grob ordnen, damit sich Tramgleise sauber verlegen lassen
 
 > **Erkenntnisse**
 > - Stau kommt von Privatautos. Nicht die Lkw reduzieren, sondern mit Personenlinien die Nutzung des öffentlichen Verkehrs erhöhen
@@ -130,9 +169,11 @@ Meine Standardlänge für Bahnsteige war 160 m, aber der Shinkansen Baureihe 0 w
 - Sammellager an die Holz-Stammstrecke anzuhängen, ließ das Netz sauber wachsen
 - Mit Mühe über den Höhenunterschied zwischen Plateau und Tiefland: eine Brücke über das Tal verbindet beide
 - Auf Einfach konnte ich spielen, ohne mir zu viele Gedanken über die Platzierung zu machen
+- Start 1950: von Anfang an Lkw und elektrifizierte Strecken. Ich konnte mit zuverlässigen Loks beginnen
 
 ### Das nehme ich mit
-- Zuerst Rückzahlung und Verdienst vergleichen und die Güterstrecken bauen, die Geld bringen
+- Bei einer langen Stammstrecke vor dem Bau die Kosten abschätzen (Höhenunterschiede sind teuer)
+- Güterstrecken mit billigen Gleisen bauen. Geld für Tempo nur bei Passagieren ausgeben
 - Subventionen erst annehmen, wenn eine Linie läuft, die die Bedingungen erfüllt
 - Stehen Stammstrecke und Sammellager, zuerst die Verteilung in der Stadt aufbauen
 - Für jede Linie zuerst den längsten Zug festlegen: Bahnsteige 240 m, Signalabstand und Warteplatz vor dem Bahnhof mindestens 300 m

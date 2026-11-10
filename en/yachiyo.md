@@ -39,24 +39,27 @@ Yonago and Yachiyo sit on the plateau; the other three towns are in the lowlands
 <a id="day1"></a>
 ## Day 1 — In the red, so I start over (1950–1951)
 
-With my starting money I ran a freight train for Clay → Bricks and a passenger train between Asaka and Yonago.
-I electrified the passenger line too.
+I usually play the same way.
+1. Early on, lay a line that pays well: "Logs → Saw Mill" or "Crude Oil → Fuel"
+2. Build it carefully as the trunk line and keep using it until around Tycoon
 
-Two years later my account stood at −$2.1M.
-I had taken all four Loans, and repayments were about $0.78M a month (about $9.4M a year).
-One train earned $2.4–3.6M a year, nowhere near enough.
+I meant to do the same this time, linking the Logging Camp at the northern edge with the Saw Mill in the south.
+But even after pouring in all the money from my Loans, it wasn't enough, and I ran out of funds.
+The height difference between the plateau and the lowlands made it far more expensive than I had expected.
 
-I also tried Subsidies.
-The advance payment seemed to bring my account back to +$15M,
-but I had accepted them without any line to carry the Workers, so both failed.
-The penalties pushed my account to −$19.8M.
+Removing the track with the Bulldozer only gave part of the money back.
+My money dropped to nearly half of what I started with.
+
+With no other choice, I connected the nearby Clay → Bricks and delivered the bricks to a town.
+But without enough development money early on, there was far too little I could do.
+I also took a subsidy for carrying Workers without having a line for it. It failed, and the penalty pushed my account to −$19.8M.
 
 At this point I decided to start over from 1950 with the same seed.
 
 > **What I learned**
-> - First, compare loan repayments with what one train earns. Passengers and electrification come after you are making money
+> - Laying track across height differences costs far more than you think. Estimate the cost of a long trunk line before you build it
+> - Removing track only gives back about half of what you paid to build it
 > - A subsidy's advance payment is not income. Accept one only once a line that meets its conditions is running
-> - Take loans one at a time, starting with "Medium", which has light monthly repayments
 
 <a id="day2"></a>
 ## Day 2 — The logs trunk line and collection warehouses (1950–1955)
@@ -68,14 +71,36 @@ I built it as cheaply as I could: Simple Tracks, no electrification.
 The height difference between the plateau and the lowlands is large, and bridging the valley between Yachiyo and Gifu was very expensive.
 Still, this was Easy, so placing things a little sloppily hardly hurt my progress.
 
+Since this world started in 1950, I didn't begin with horse carriages this time.
+I had trucks and electrified track from the start. The locomotives, with real capacity and speed, felt reliable.
+
 By 1955 I had $262M in the account, no loans, and 27 lines.
 The top earners were the Logs + Vegetables train (+$9.0M a year) and the Asa-Yone passenger line (Asaka–Yonago, +$6.2M a year).
 
 ![1955. Western and eastern trunk lines loop around all five towns](../images/09/map-1955.png){: width="420"}
 
+### My rules for laying track
+
+Two worlds ago, I couldn't get my lines into profit during the inflation years, slowly ran dry, and gave up.
+The cause was infrastructure costs. Because I had a little money, I had lavishly built High-Speed Tracks, Standard Tracks and Warehouses.
+So last time and this time, I was careful.
+
+Freight fares don't change with delivery speed.
+Only passengers need to keep speeds like 160 km/h.
+So I set clear rules for how to lay track.
+
+- Don't make everything Standard Tracks
+- Wheat, Clay, Sand, Iron Ore, Coal and the like are wanted in volume, so use trains even over short distances (where possible)
+- Before adding a Warehouse, think about whether delivery trucks circling quickly can keep cargo from piling up
+- Put a Truck Station or similar in front of the station, and don't build roads there
+- Build collection warehouses, and have many trains and trucks come and go there
+- Don't split in-town lines too much by cargo. Plan the loading points and destinations so the same line and the same vehicles can carry whatever cargo arrives
+- Private cars get in the way, so don't connect to the town's main roads used by ordinary traffic
+
 > **What I learned**
 > - Build one long trunk line first, and the network grows just by hanging collection warehouses off it
 > - This was enough to produce and deliver Vegetables, Planks, Fuel, Meat and Bricks
+> - Use cheap track for freight lines. Spend money on speed only for passengers
 
 <a id="day3"></a>
 ## Day 3 — Removing what holds each town back (1966–1967)
@@ -97,6 +122,20 @@ Growth reached about 635 people per hour, the fastest in this world.
 
 Every Landmark except the Ship Museum needs Stone.
 This map had not a single Quarry, so I couldn't build them.
+
+### What to do about traffic
+
+Here is my thinking so far.
+
+1. **As a rough fix, cut the connection between towns**. Growth stops, but the penalty isn't that heavy. It seems fine to sort out the network, clear the traffic, and then reconnect
+2. **Turn two-lane roads into bus lanes**. Ordinary cars can't use them, and buildings aren't affected. This looks good when you just want stuck trucks and trams moving again
+3. I think the only real fix is building up public transport. But I still don't really know how to make that work
+
+Pollution and noise don't draw many complaints as long as you keep delivery going and supply enough goods.
+It seems fine to think about them once delivery can't be tuned any further.
+Still, it seems worth keeping these in mind from the start.
+- Put stations away from residential areas
+- Lay out the roads between towns, the town's main roads and the blocks, even roughly, so tram track can be laid cleanly
 
 > **What I learned**
 > - Traffic means private cars. Don't cut trucks; raise public transport usage with passenger lines
@@ -130,9 +169,11 @@ I had made 160 m my standard platform length, but an 8-car Shinkansen 0 Series w
 - Hanging collection warehouses off the logs trunk line made the network grow neatly
 - I struggled with the height difference between plateau and lowlands, and bridged the valley to connect them
 - On Easy, I could play without worrying too much about placement
+- Starting in 1950 meant trucks and electrified lines from the start. I got to begin with reliable locomotives
 
 ### What I'll carry forward
-- First compare repayments with earnings, and lay the money-making freight lines first
+- Estimate the cost of a long trunk line before building it (height differences are expensive)
+- Use cheap track for freight lines. Spend money on speed only for passengers
 - Accept subsidies only once a line that meets the conditions is running
 - Once the trunk line and collection warehouses are in place, sort out in-town delivery first
 - Decide the longest train for each line up front: 240 m platforms, and at least 300 m for signal spacing and the waiting space before stations
